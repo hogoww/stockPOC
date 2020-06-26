@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "A_StockManager",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stock",
+		"screw6",
+		"screw8"
+	],
+	"name" : "StockTests",
+	"type" : "normal"
+}
