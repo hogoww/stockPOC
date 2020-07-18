@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "ElementNotInDatabase",
+	"name" : "ElementNotInStock",
 	"type" : "normal"
 }
