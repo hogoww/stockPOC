@@ -6,6 +6,6 @@ remove: aNumber of: anElement
 	newValueOfStock := association value - aNumber.
 	newValueOfStock < 0 
 		ifTrue:[
-			NotEnougElementInStock only: association value elementsInsteadOf: aNumber
+			NotEnoughElementInStock only: association value elementsInsteadOf: aNumber
 			].
 	association value: newValueOfStock 

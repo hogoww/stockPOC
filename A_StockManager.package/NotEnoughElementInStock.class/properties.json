@@ -9,6 +9,6 @@
 		"actual",
 		"expected"
 	],
-	"name" : "NotEnougElementInStock",
+	"name" : "NotEnoughElementInStock",
 	"type" : "normal"
 }
